@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url("balança\ amarela.png");
+    background-image: url("../imagens/balança\ amarela.png");
     background-size: cover; 
     background-position-y: -100px;      
 }
